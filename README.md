@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sheikha! <br/><a href="https://github.com/oliv6">Cybersecurity Enthusiast</a> | <a href="https://github.com/oliv6/">Programmer</a> | <a href="https://github.com/oliv6">CEH</a></h1>
+<h1>Hi, I'm Sheikha! <br/><a href="https://github.com/oliv6">Aspiring Cybersecurity Professional</a> | <a href="https://github.com/oliv6/">Programmer</a> | <a href="https://github.com/oliv6">CEH</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -21,7 +21,7 @@
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)

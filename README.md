@@ -16,6 +16,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Google Cybersecurity Projects</b>
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)
+  - [SQL Filters and Security Updates](https://github.com/oliv6/SQLFiltersAndSecurityUpdates)
 
 <h2>📃Cerifications</h2>
 

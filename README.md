@@ -4,36 +4,23 @@
 
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 - <b>Google Cybersecurity Projects</b>
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)
   - [SQL Filters and Security Updates](https://github.com/oliv6/SQLFiltersAndSecurityUpdates)
 
 <h2>📃Cerifications</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
-<h2>📺 YouTube Videos</h2>
-
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Certified Ethical Hacker (CEH), EC Council](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Google IT Support, Coursera](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Introduction to Bash Shell Scripting, Coursera](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- 
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-
-[youtube]: https://github.com/oliv6/
 
 
 

@@ -18,7 +18,7 @@
 - [Certified Ethical Hacker (CEH), EC Council](https://github.com/oliv6/Certified-Ethical-Hacker-CEH/blob/main/ECC-CEH-Certificate.pdf)
 - [Google IT Support, Coursera](https://github.com/oliv6/Google-IT-Support-Certification/blob/main/Coursera%20IT%20Support%20certificate.pdf)
 - [Introduction to Bash Shell Scripting, Coursera](https://github.com/oliv6/Bash-Shell-Scripting/blob/main/Coursera%20Bash%20shell%20script.pdf)
-- [Introduction to Bash Shell Scripting, Coursera](https://github.com/oliv6/Snorts-IDS-Udemy/blob/main/Snort-IDS-Cert.pdf)
+- [ISnort Intrusion Detection, PCAP analysis, and Rule writing Udemy](https://github.com/oliv6/Snorts-IDS-Udemy/blob/main/Snort-IDS-Cert.pdf)
 
 
 

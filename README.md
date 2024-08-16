@@ -6,6 +6,9 @@
 - <b>PowerShell</b>
   - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
 
+- <b>C# (.NET Core)</b>
+  - [ Encrypted Minimal API with AES/Blowfish in .NET](https://github.com/oliv6/Minimal-API-Encryption-Implementation)
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 

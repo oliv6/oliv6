@@ -2,15 +2,14 @@
 
 <h2>👨‍💻 Selected Cybersecurity Projects:</h2>
 
-
-- <b>PowerShell</b>
-  - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
-
 - <b>C# (.NET Core)</b>
   - [ Encrypted Minimal API with AES/Blowfish in .NET](https://github.com/oliv6/Minimal-API-Encryption-Implementation)
 
 - <b>Python</b>
-  - [Data Mining with Big Data Analysis Algorithms)](https://github.com/oliv6/Big-Data-Analysis-Implementation)
+  - [Data Mining with Big Data Analysis Algorithms](https://github.com/oliv6/Big-Data-Analysis-Implementation)
+ 
+- <b>PowerShell</b>
+  - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
 
 - <b>Google Cybersecurity Projects (Ongoing)</b>
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)

@@ -10,7 +10,7 @@
   - [ Encrypted Minimal API with AES/Blowfish in .NET](https://github.com/oliv6/Minimal-API-Encryption-Implementation)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Data Mining with Big Data Analysis Algorithms)](https://github.com/oliv6/Big-Data-Analysis-Implementation)
 
 - <b>Google Cybersecurity Projects (Ongoing)</b>
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)

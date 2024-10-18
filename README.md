@@ -17,6 +17,8 @@
 
 <h2>📑 Internship Report:</h2>
   - [Comprehensive report of my 16 weeks internship as a cybersecurity intern](https://github.com/oliv6/Internship-Report/blob/main/Internship%20Final%20Report.pdf)
+    - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
+
 
 <h2>📃Cerifications</h2>
 

@@ -15,6 +15,9 @@
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)
   - [SQL Filters and Security Updates](https://github.com/oliv6/SQLFiltersAndSecurityUpdates)
 
+<h2>📑 Internship Report:</h2>
+  - [Comprehensive report of my 16 weeks internship as a cybersecurity intern](https://github.com/oliv6/Internship-Report/blob/main/Internship%20Final%20Report.pdf)
+
 <h2>📃Cerifications</h2>
 
 - [Certified Ethical Hacker (CEH), EC Council](https://github.com/oliv6/Certified-Ethical-Hacker-CEH/blob/main/ECC-CEH-Certificate.pdf)

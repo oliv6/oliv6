@@ -15,10 +15,6 @@
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)
   - [SQL Filters and Security Updates](https://github.com/oliv6/SQLFiltersAndSecurityUpdates)
 
-<h2><b>Cybersecurity Internship Documentation</b></h2>
-
-  - [Comprehensive report of my 16-weeks internship as a cybersecurity intern](https://github.com/oliv6/Internship-Report/blob/main/Internship%20Final%20Report.pdf)
-
 
 
 <h2>📃Cerifications</h2>
@@ -29,6 +25,9 @@
 - [ISnort Intrusion Detection, PCAP analysis, and Rule writing Udemy](https://github.com/oliv6/Snorts-IDS-Udemy/blob/main/Snort-IDS-Cert.pdf)
 
 
+<h2>📑 Cybersecurity Internship Documentation</h2>
+
+  - [Comprehensive report of my 16-weeks internship as a cybersecurity intern](https://github.com/oliv6/Internship-Report/blob/main/Internship%20Final%20Report.pdf)
 
 
 

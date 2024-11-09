@@ -8,11 +8,12 @@
 
 - <b>Python</b>
   - [Data Mining with Big Data Analysis Algorithms](https://github.com/oliv6/Big-Data-Analysis-Implementation)
+  - [Keylogger Script](https://github.com/oliv6/Python-Keylogger)
  
 - <b>PowerShell</b>
   - [ Automating 100+ Account Creation in Active Directory using Powershell](https://github.com/oliv6/Bulk-Account-Creation-ACTIVE-DIRECTORY)
 
-- <b>Google Cybersecurity Projects (Ongoing)</b>
+- <b>Google Cybersecurity Projects</b>
   - [Managing and authorizing Linux File Permissions](https://github.com/oliv6/LinuxFilePermissions)
   - [SQL Filters and Security Updates](https://github.com/oliv6/SQLFiltersAndSecurityUpdates)
 
@@ -22,9 +23,10 @@
 <h2>📃Cerifications</h2>
 
 - [Certified Ethical Hacker (CEH), EC Council](https://github.com/oliv6/Certified-Ethical-Hacker-CEH/blob/main/ECC-CEH-Certificate.pdf)
+- [Google Cybersecurity Professional Certificate, Coursera](https://github.com/oliv6/Google-Cybersecurity-Professional/blob/main/%231-Foundations%20of%20Cybersecurity.pdf)
 - [Google IT Support, Coursera](https://github.com/oliv6/Google-IT-Support-Certification/blob/main/Coursera%20IT%20Support%20certificate.pdf)
 - [Introduction to Bash Shell Scripting, Coursera](https://github.com/oliv6/Bash-Shell-Scripting/blob/main/Coursera%20Bash%20shell%20script.pdf)
-- [ISnort Intrusion Detection, PCAP analysis, and Rule writing Udemy](https://github.com/oliv6/Snorts-IDS-Udemy/blob/main/Snort-IDS-Cert.pdf)
+- [Snort Intrusion Detection, PCAP analysis, and Rule writing Udemy](https://github.com/oliv6/Snorts-IDS-Udemy/blob/main/Snort-IDS-Cert.pdf)
   
 
 </br>

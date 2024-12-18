@@ -5,7 +5,8 @@
 <h2>🏆Hackathon Competitions :</h2>
 
 - <b>CyberQ- Quantum Cyptograpgy Hackathon (Global)</b>
-  - [CyberQ Hackathon- Certificate of Achievement](https://github.com/oliv6/CyberQ-Hackathon/blob/main/CertificateOfAchievement_CyberQHackathon2024-1_303.pdf)
+
+  - [ CyberQ Hackathon- Certificate of Achievement](https://github.com/oliv6/CyberQ-Hackathon/blob/main/CertificateOfAchievement_CyberQHackathon2024-1_303.pdf)
 
 </br>
 <h2>👨‍💻 Selected Projects:</h2>

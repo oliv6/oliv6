@@ -1,6 +1,13 @@
 <h1>Hi, I'm Sheikha! <br/><a href="https://github.com/oliv6">Aspiring Cybersecurity Professional</a> | <a href="https://github.com/oliv6/">Programmer</a> | <a href="https://github.com/oliv6">CEH</a></h1>
 
 </br>
+
+<h2>🏆Hackathon Competitions :</h2>
+
+- <b>CyberQ- Quantum Cyptograpgy Hackathon (Global)</b>
+  - [CyberQ Hackathon- Certificate of Achievement](https://github.com/oliv6/CyberQ-Hackathon/blob/main/CertificateOfAchievement_CyberQHackathon2024-1_303.pdf)
+
+
 <h2>👨‍💻 Selected Projects:</h2>
 
 - <b>C# (.NET Core)</b>

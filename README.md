@@ -11,7 +11,7 @@
 </br>
 
 <h2>📃Cerifications</h2>
-  - [ Saviynt Certified IGA Professional , Saviynt](https://github.com/oliv6/Saviynt-Certified-IGA-Professional/blob/main/SaviyntL100.pdf)
+  
 
 - [Saviynt Certified IGA Professional , Saviynt](https://github.com/oliv6/Saviynt-Certified-IGA-Professional/blob/main/SaviyntL100.pdf)
 - [Certified Ethical Hacker (CEH), EC Council](https://github.com/oliv6/Certified-Ethical-Hacker-CEH/blob/main/ECC-CEH-Certificate.pdf)

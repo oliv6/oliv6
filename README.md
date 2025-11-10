@@ -2,7 +2,7 @@
 
 </br>
 
-<h2>🏆Hackathon Competitions :</h2>
+<h2>🏆Hackathon Competitions </h2>
 
 - <b>CyberQ- Quantum Cyptograpgy Hackathon (Global)</b>
 
@@ -23,7 +23,7 @@
 
 </br>
 
-<h2>👨‍💻 Selected Projects:</h2>
+<h2>👨‍💻 Selected Projects</h2>
 
 - <b>C# (.NET Core)</b>
   - [ Encrypted Minimal API with AES/Blowfish in .NET](https://github.com/oliv6/Minimal-API-Encryption-Implementation)

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sheikha! <br/><a href="https://github.com/oliv6">Cybersecurity Professional</a> | <a href="https://github.com/oliv6/">Aspiring Strategist</a> | <a href="https://github.com/oliv6">CEH</a></h1>
+<h1>Hi, I'm Sheikha! <br/><a href="https://github.com/oliv6">Cybersecurity Professional</a> | <a href="https://github.com/oliv6/">Aspiring Security Engineer</a> | <a href="https://github.com/oliv6">CEH</a></h1>
 
 </br>
 

@@ -12,7 +12,7 @@
 
 <h2>📃Cerifications</h2>
   
-
+- [KC7 Cyber - Security Analyst 1 Learning Path](https://github.com/oliv6/KC7-Security-Analyst-I_Learning-Path/blob/main/kc7-certificate.pdf)
 - [Saviynt Certified IGA Professional , Saviynt](https://github.com/oliv6/Saviynt-Certified-IGA-Professional/blob/main/SaviyntL100.pdf)
 - [Certified Ethical Hacker (CEH), EC Council](https://github.com/oliv6/Certified-Ethical-Hacker-CEH/blob/main/ECC-CEH-Certificate.pdf)
 - [Google Cybersecurity Professional Certificate, Coursera](https://github.com/oliv6/Google-Cybersecurity-Professional/blob/main/%231-Foundations%20of%20Cybersecurity.pdf)
